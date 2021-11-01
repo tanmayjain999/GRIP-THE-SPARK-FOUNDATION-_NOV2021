@@ -1,4 +1,5 @@
 
+![image](https://user-images.githubusercontent.com/84551574/139684021-3c56a1a8-8d5e-4a3b-abe2-42909c5f29e8.png)
 
 ![image](https://user-images.githubusercontent.com/84551574/139683768-615d5f84-8e23-4c6b-9b49-2d975789f82f.png)
 
@@ -15,6 +16,8 @@ The Graduate Rotational Internship Program, also known as GRIP is an unique offe
  This program aims to enable students to be professionally capable, and entrepreneurial. Apart from skill specific tasks, they encourage interns to build a credible professional profile.
 
 ## Prediction using Supervised ML (Level - Beginner) <br> <br>
+  ![image](https://user-images.githubusercontent.com/84551574/139684108-247aba48-331f-4e08-8ca7-34bc2947da30.png)
+
 
 > Problem Statement: Predict the percentage of an student based on the no. of study hours.
 
@@ -30,6 +33,8 @@ The Graduate Rotational Internship Program, also known as GRIP is an unique offe
   
 
 ## Prediction using Unsupervised ML (Level - Beginner)<br><br>
+  ![image](https://user-images.githubusercontent.com/84551574/139684190-2d1d33a3-d587-437d-8eef-7a98a7c31313.png)
+
 
 > Problem Statement: From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
