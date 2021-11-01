@@ -1,7 +1,6 @@
 
-<p align="center">
+
 ![image](https://user-images.githubusercontent.com/84551574/139683768-615d5f84-8e23-4c6b-9b49-2d975789f82f.png)
-</p>
 
 <p align="center">
   <b><i> # GRIP-THESPARKSFOUNDATION_NOV2021
