@@ -1,5 +1,6 @@
 <img align = right height = 120 width = 120 src = https://www.thesparksfoundationsingapore.org/images/logo_small.png>
-![image](https://user-images.githubusercontent.com/84551574/139684021-3c56a1a8-8d5e-4a3b-abe2-42909c5f29e8.png)     
+
+<img align = left src = https://www.google.com/search?q=spark+foundation&sxsrf=AOaemvLXgWn3nI9vRYq4q9-FDmVW672iAA:1635776548049&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjX5M_ArvfzAhVOlEsFHQ1sDbMQ_AUoAnoECAIQBA&biw=1360&bih=625&dpr=1#imgrc=WpjCUn0SY06HlM>
    
 <p align="center">
   <b><i> # GRIP-THESPARKSFOUNDATION_NOV2021
@@ -148,8 +149,7 @@ The Graduate Rotational Internship Program, also known as GRIP is an unique offe
 
 <p align="center"> If you have any Queries or Suggestions, feel free to reach out to me. 
    
- <img height="30" src="https://img.shields.io/badge/The Sparks Foundation-black.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
-<br><br>
+<p align="center"><img src="https://github.com/Programmer1473/THE-SPARKS-FOUNDATION/blob/master/certificate/Data-Science-vs.-Big-Data-vs.jpg" alt="Web Developement Image" width=750px />
    
 
 
