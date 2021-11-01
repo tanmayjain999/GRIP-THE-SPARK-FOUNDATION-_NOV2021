@@ -1,6 +1,6 @@
 <img align = right height = 120 width = 120 src = https://www.thesparksfoundationsingapore.org/images/logo_small.png>
 
-<img align = left src = https://www.google.com/search?q=spark+foundation&sxsrf=AOaemvLXgWn3nI9vRYq4q9-FDmVW672iAA:1635776548049&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjX5M_ArvfzAhVOlEsFHQ1sDbMQ_AUoAnoECAIQBA&biw=1360&bih=625&dpr=1#imgrc=WpjCUn0SY06HlM>
+<img align = left src = https://www.google.com/search?q=spark+foundation&sxsrf=AOaemvLXgWn3nI9vRYq4q9-FDmVW672iAA:1635776548049&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjX5M_ArvfzAhVOlEsFHQ1sDbMQ_AUoAnoECAIQBA&biw=1360&bih=625&dpr=1#imgrc=WpjCUn0SY06HlM.png>
    
 <p align="center">
   <b><i> # GRIP-THESPARKSFOUNDATION_NOV2021
