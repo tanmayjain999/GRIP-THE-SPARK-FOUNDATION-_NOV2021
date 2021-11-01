@@ -1,9 +1,6 @@
 
 ![image](https://user-images.githubusercontent.com/84551574/139684021-3c56a1a8-8d5e-4a3b-abe2-42909c5f29e8.png)     
-![image](https://user-images.githubusercontent.com/84551574/139683768-615d5f84-8e23-4c6b-9b49-2d975789f82f.png)     
-![image](https://user-images.githubusercontent.com/84551574/139685331-6892d87c-87fa-499a-b19c-eca70f5d4bed.png)
-
-
+   
 <p align="center">
   <b><i> # GRIP-THESPARKSFOUNDATION_NOV2021
     Internship Tasks Under Data and Business Analytics Domain Under Guidance of The Sparks Foundation Team # </i></b>
@@ -149,7 +146,9 @@ The Graduate Rotational Internship Program, also known as GRIP is an unique offe
   
 
 ## Timeline Analysis : Covid-19 (Level - Advanced) <br><br>
-  ![image](https://user-images.githubusercontent.com/84551574/139685148-e8d314a6-8719-4e0b-9719-c7b120726735.png)
+![image](https://user-images.githubusercontent.com/84551574/139685579-5e99e9af-7214-46b0-8f29-f11a31fce667.png)
+
+  
 
   
 > Problem Statement:  Create a storyboard showing spread of Covid-19 cases in your country or any region (Asia, Europe, BRICS etc) using Tableau, Power BI or SAP
@@ -162,7 +161,8 @@ The Graduate Rotational Internship Program, also known as GRIP is an unique offe
   
 ● Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
 
-<p align="center"> If you have any Queries or Suggestions, feel free to reach out to me.
+<p align="center"> If you have any Queries or Suggestions, feel free to reach out to me. 
+  ![image](https://user-images.githubusercontent.com/84551574/139685331-6892d87c-87fa-499a-b19c-eca70f5d4bed.png)
 
 
 
