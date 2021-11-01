@@ -1,4 +1,4 @@
-
+<img align = right height = 120 width = 120 src = https://www.thesparksfoundationsingapore.org/images/logo_small.png>
 ![image](https://user-images.githubusercontent.com/84551574/139684021-3c56a1a8-8d5e-4a3b-abe2-42909c5f29e8.png)     
    
 <p align="center">
@@ -144,12 +144,12 @@ The Graduate Rotational Internship Program, also known as GRIP is an unique offe
   
 ● Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
    
-   ![image](https://user-images.githubusercontent.com/84551574/139685882-a4e7e0f2-7884-4c16-b46d-ea483f8900f5.png)
 
 
 <p align="center"> If you have any Queries or Suggestions, feel free to reach out to me. 
    
- 
+ <img height="30" src="https://img.shields.io/badge/The Sparks Foundation-black.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
+<br><br>
    
 
 
