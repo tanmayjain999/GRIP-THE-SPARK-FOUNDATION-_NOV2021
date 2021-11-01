@@ -42,23 +42,6 @@ The Graduate Rotational Internship Program, also known as GRIP is an unique offe
   
 ● Sample Solution : https://bit.ly/3cGyP8j
 
-## Exploratory Data Analysis - Retail (Level - Beginner) <br><br>
-  
-> Problem Statement:Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
-
-● As a business manager, try to find out the weak areas where you can work to make more profit.
-  
-● What all business problems you can derive by exploring the data?
-  
-● You can choose any of the tool of your choice
-(Python/R/Tableau/PowerBI/Excel/SAP/SAS)
-  
-● Dataset: https://bit.ly/3i4rbWl
-  
-● Beginner Level - Create dashboards. Screen-record along with your audio explaining the charts and interpretations.
-  
-
-
 
 ## Exploratory Data Analysis - Retail (Level - Beginner) <br><br>
   ![image](https://user-images.githubusercontent.com/84551574/139684358-3e86d841-ac16-485d-a40d-02e97174413c.png)
@@ -160,9 +143,15 @@ The Graduate Rotational Internship Program, also known as GRIP is an unique offe
 ● Screen-record the completed storyboard along with your audio explaining the charts and giving recommendations.
   
 ● Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
+   
+   ![image](https://user-images.githubusercontent.com/84551574/139685882-a4e7e0f2-7884-4c16-b46d-ea483f8900f5.png)
+
 
 <p align="center"> If you have any Queries or Suggestions, feel free to reach out to me. 
-  ![image](https://user-images.githubusercontent.com/84551574/139685331-6892d87c-87fa-499a-b19c-eca70f5d4bed.png)
+   
+ 
+   
+
 
 
 
