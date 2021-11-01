@@ -1,7 +1,6 @@
 
-![image](https://user-images.githubusercontent.com/84551574/139684021-3c56a1a8-8d5e-4a3b-abe2-42909c5f29e8.png)
+![image](https://user-images.githubusercontent.com/84551574/139684021-3c56a1a8-8d5e-4a3b-abe2-42909c5f29e8.png)![image](https://user-images.githubusercontent.com/84551574/139683768-615d5f84-8e23-4c6b-9b49-2d975789f82f.png)![image](https://user-images.githubusercontent.com/84551574/139685331-6892d87c-87fa-499a-b19c-eca70f5d4bed.png)
 
-![image](https://user-images.githubusercontent.com/84551574/139683768-615d5f84-8e23-4c6b-9b49-2d975789f82f.png)
 
 <p align="center">
   <b><i> # GRIP-THESPARKSFOUNDATION_NOV2021
@@ -63,6 +62,8 @@ The Graduate Rotational Internship Program, also known as GRIP is an unique offe
 
 
 ## Exploratory Data Analysis - Retail (Level - Beginner) <br><br>
+  ![image](https://user-images.githubusercontent.com/84551574/139684358-3e86d841-ac16-485d-a40d-02e97174413c.png)
+
   
 > Problem Statement: Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
   
@@ -80,6 +81,8 @@ The Graduate Rotational Internship Program, also known as GRIP is an unique offe
   
 
 ## Exploratory Data Analysis - Terrorism (Level - Intermediate) <br><br>
+  ![image](https://user-images.githubusercontent.com/84551574/139684580-9163c741-c452-4041-839a-bfcc5b74d507.png)
+
   
 > Problem Statement: Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
 
@@ -97,6 +100,8 @@ The Graduate Rotational Internship Program, also known as GRIP is an unique offe
 
 
 ## Exploratory Data Analysis - Sports (Level - Advanced)<br><br>
+  ![image](https://user-images.githubusercontent.com/84551574/139684734-7d1bda0a-c27e-4a3a-8963-d44ed8b1f1de.png)
+
 
 > Problem Statement: Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
   
@@ -112,6 +117,8 @@ The Graduate Rotational Internship Program, also known as GRIP is an unique offe
 ● Advanced Level - Create storyboards. Screen-record along with your audio explaining the charts and interpretations. Use annotations, animation and images.
 
 ## Prediction using Decision Tree Algorithm (Level - Intermediate)<br><br>
+  ![image](https://user-images.githubusercontent.com/84551574/139684884-ca54d49c-b2b6-469b-944a-b0cae3bbb1aa.png)
+
 
 > Problem Statement: Create the Decision Tree classifier and visualize it graphically.
   
@@ -124,6 +131,7 @@ The Graduate Rotational Internship Program, also known as GRIP is an unique offe
 
 ## Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced) <br><br>
   
+![image](https://user-images.githubusercontent.com/84551574/139685042-1220d6ed-ea89-414c-980e-cf7c8fb7f4a4.png)
 
 > Problem Statement: Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines
   
@@ -136,8 +144,11 @@ The Graduate Rotational Internship Program, also known as GRIP is an unique offe
 ● Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model
   
 ● You are free to select a different stock to analyze and news dataset as well while not changing the objective of the task.
+  
 
 ## Timeline Analysis : Covid-19 (Level - Advanced) <br><br>
+  ![image](https://user-images.githubusercontent.com/84551574/139685148-e8d314a6-8719-4e0b-9719-c7b120726735.png)
+
   
 > Problem Statement:  Create a storyboard showing spread of Covid-19 cases in your country or any region (Asia, Europe, BRICS etc) using Tableau, Power BI or SAP
   
