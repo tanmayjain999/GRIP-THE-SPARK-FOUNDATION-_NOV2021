@@ -1,5 +1,5 @@
-![image](https://user-images.githubusercontent.com/84551574/139683168-af0c5666-485e-4d77-90f2-b71e9e250fba.png)
-![image](https://user-images.githubusercontent.com/84551574/139683292-82670656-bde2-44ff-9fad-9b125bf12361.png)
+
+<p align="center">![image](https://user-images.githubusercontent.com/84551574/139683292-82670656-bde2-44ff-9fad-9b125bf12361.png)</p>
 
 <p align="center">
   <b><i> # GRIP-THESPARKSFOUNDATION_NOV2021
