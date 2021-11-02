@@ -15,7 +15,7 @@ This **repository** contains the projects I've worked on as a part of The Sparks
 The Graduate Rotational Internship Program, also known as GRIP is an unique offer for students and recent graduates to experience and join TSF.
  This program aims to enable students to be professionally capable, and entrepreneurial. Apart from skill specific tasks, they encourage interns to build a credible professional profile.
 
-## Prediction using Supervised ML (Level - Beginner) <br> <br>
+## Prediction using Supervised ML (Level - Beginner) Via PYTHON  <br> <br>
   ![image](https://user-images.githubusercontent.com/84551574/139684108-247aba48-331f-4e08-8ca7-34bc2947da30.png)
 
 
@@ -32,7 +32,7 @@ The Graduate Rotational Internship Program, also known as GRIP is an unique offe
 ● Sample Solution : https://bit.ly/2HxiGGJ
   
 
-## Prediction using Unsupervised ML (Level - Beginner)<br><br>
+## Prediction using Unsupervised ML (Level - Beginner) Via R PROGRAMMING <br><br>
   ![image](https://user-images.githubusercontent.com/84551574/139684190-2d1d33a3-d587-437d-8eef-7a98a7c31313.png)
 
 
