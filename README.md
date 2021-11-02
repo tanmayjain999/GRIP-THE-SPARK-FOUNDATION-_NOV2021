@@ -30,7 +30,8 @@ The Graduate Rotational Internship Program, also known as GRIP is an unique offe
 ● What will be predicted score if a student studies for 9.25 hrs/ day?
   
 ● Sample Solution : https://bit.ly/2HxiGGJ
-  
+
+   ● My Solution : https://github.com/tanmayjain999/GRIP-THE-SPARK-FOUNDATION-_NOV2021/blob/main/TASK_1_SPARK_FOUNDATION.ipynb 
 
 ## Prediction using Unsupervised ML (Level - Beginner) Via R PROGRAMMING <br><br>
   ![image](https://user-images.githubusercontent.com/84551574/139684190-2d1d33a3-d587-437d-8eef-7a98a7c31313.png)
@@ -43,6 +44,9 @@ The Graduate Rotational Internship Program, also known as GRIP is an unique offe
 ● Dataset : https://bit.ly/3kXTdox
   
 ● Sample Solution : https://bit.ly/3cGyP8j
+ 
+   ● My Solution : https://github.com/tanmayjain999/GRIP-THE-SPARK-FOUNDATION-_NOV2021/blob/main/Task-2%20SPARK%20FOUNDATION.ipynb
+  
 
 
 ## Exploratory Data Analysis - Retail (Level - Beginner) <br><br>
