@@ -48,7 +48,7 @@ The Graduate Rotational Internship Program, also known as GRIP is an unique offe
    ● My Solution : https://github.com/tanmayjain999/GRIP-THE-SPARK-FOUNDATION-_NOV2021/tree/main/Task%202%20SPARK%20FOUNDATION
 
 
-## Exploratory Data Analysis - Retail (Level - Beginner) <br><br>
+## Exploratory Data Analysis - Retail (Level - Beginner)  Via POWER BI <br><br>
   ![image](https://user-images.githubusercontent.com/84551574/139684358-3e86d841-ac16-485d-a40d-02e97174413c.png)
 
   
