@@ -65,6 +65,8 @@ The Graduate Rotational Internship Program, also known as GRIP is an unique offe
 ● Dataset: https://bit.ly/3i4rbWl
   
 ● Beginner Level - Create dashboards. Screen-record along with your audio explaining the charts and interpretations.
+   
+● My solution : https://github.com/tanmayjain999/GRIP-THE-SPARK-FOUNDATION-_NOV2021/tree/main/Task%203%20SPARK%20FOUNDATION 
   
 
 ## Exploratory Data Analysis - Terrorism (Level - Intermediate) <br><br>
